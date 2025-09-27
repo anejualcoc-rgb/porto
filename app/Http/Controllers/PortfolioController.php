@@ -58,22 +58,22 @@ class PortfolioController extends Controller
                 'title' => 'Stacking Machine Learning',
                 'description' => 'Aplikasi manajemen tugas dengan fitur kolaborasi tim',
                 'tech' => ['XGBoost', 'Random Forest', 'Machine Learning'],
-                'image' => asset('storage/paperr.png'),
-                'link' => route('download.file', 'Paper.pdf')
+                'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/paperr.png',
+                'link' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/Paper.pdf'
             ],
             [
                 'title' => 'Design System Aplikasi Internal',
                 'description' => 'Website profil perusahaan dengan CMS admin panel',
                 'tech' => ['Figma'],
-                'image' => asset('storage/images/Design.png'),
+                'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/images/Design.png',
                 'link' => '#'
             ],
             [
                 'title' => 'Test Case Production Dummy',
                 'description' => 'Contoh TCP Dummy dengan bug report manual',
                 'tech' => ['-'],
-                'image' => asset('storage/images/tcp.png'),
-                'link' => route('download.file', 'TCP.xlsx')
+                'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/images/tcp.png',
+                'link' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/TCP.xlsx'
             ],
             
         ];
