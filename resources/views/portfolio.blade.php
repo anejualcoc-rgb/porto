@@ -18,7 +18,9 @@ efisiensi proses bisnis dan teknis.</p>
             </div>
             <div class="col-lg-6 text-center">
                 <div class="bg-white rounded-circle d-inline-flex align-items-center justify-content-center overflow-hidden" style="width: 300px; height: 300px;">
-                    <img src="{{ asset('storage/iqmal.jpg') }}" alt="Foto Iqmal Nuriadi" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/iqmal.jpg" 
+                    alt="Foto Iqmal Nuriadi" 
+                    style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </div>
     </div>
