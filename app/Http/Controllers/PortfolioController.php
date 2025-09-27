@@ -49,21 +49,21 @@ class PortfolioController extends Controller
         $projects = [
             [
                 'title' => 'SEHATI App',
-                'description' => 'Aplikasi e-commerce lengkap dengan sistem pembayaran dan manajemen produk',
+                'description' => 'Aplikasi Kesehatan Ibu hamil dengan berbagai fitur inovasi',
                 'tech' => ['Laravel', 'MySQL', 'Flutter', 'UML', 'AWS', 'Flask','Railway Deploy Service'],
                 'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/images/Sehati.jpg',
                 'link' => 'https://sehatiapp-production.up.railway.app/'
             ],
             [
                 'title' => 'Stacking Machine Learning',
-                'description' => 'Aplikasi manajemen tugas dengan fitur kolaborasi tim',
+                'description' => 'Pelatihan machine learning dengan 2 machine learning dalam 1 meta model',
                 'tech' => ['XGBoost', 'Random Forest', 'Machine Learning'],
                 'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/paperr.png',
                 'link' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/Paper.pdf'
             ],
             [
                 'title' => 'Design System Aplikasi Internal',
-                'description' => 'Website profil perusahaan dengan CMS admin panel',
+                'description' => 'Design system internal perusahaan untuk berbagai aplikasi internal',
                 'tech' => ['Figma'],
                 'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/images/Design.png',
                 'link' => '#'
