@@ -51,7 +51,7 @@ class PortfolioController extends Controller
                 'title' => 'SEHATI App',
                 'description' => 'Aplikasi e-commerce lengkap dengan sistem pembayaran dan manajemen produk',
                 'tech' => ['Laravel', 'MySQL', 'Flutter', 'UML', 'AWS', 'Flask','Railway Deploy Service'],
-                'image' => asset('storage/images/Sehati.jpg'),
+                'image' => 'https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/images/Sehati.jpg',
                 'link' => 'https://sehatiapp-production.up.railway.app/'
             ],
             [
