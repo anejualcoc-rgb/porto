@@ -56,7 +56,7 @@ efisiensi proses bisnis dan teknis.</p>
                         <li class="mb-2"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/iqmal-nuriadi-007156197/" target="_blank" class="text-decoration-none">LinkedIn Profile</a></li>
                         <li class="mb-2"><strong>Status:</strong> Mencari Peluang Karir</li>
                     </ul>
-                    <a href="{{ route('download.cv') }}" class="btn btn-primary">Download CV</a>
+                    <a href="https://amazon-datazone-sehatiapp.s3.ap-southeast-1.amazonaws.com/public/CV.pdf" class="btn btn-primary">Download CV</a>
                 </div>
             </div>
         </div>
